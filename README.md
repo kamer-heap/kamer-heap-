@@ -1,4 +1,8 @@
-<h1 align="left">Hi, I'm Khadija Amer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=180&section=header&text=Hi,%20I'm%20Khadija%20Amer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+
+</div>
 
 **Systems-focused CS student who builds the tools most developers just use** — network monitors, custom game engines, and parsers, written from scratch in C++ and Python.
 
@@ -94,20 +98,25 @@ Expression parser and evaluator with structural algorithm optimizations for pars
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&icon_color=a78bfa&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&langs_count=8&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&icon_color=a78bfa&cache_seconds=86400" alt="Khadija's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&langs_count=8&cache_seconds=86400" alt="Khadija's Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=kamer-heap&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=e5e7eb" />
+<img height="165" src="https://streak-stats.demolab.com/?user=kamer-heap&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=e5e7eb&cache_seconds=86400" alt="Khadija's GitHub Streak"/>
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=kamer-heap&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Khadija's GitHub Trophies"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kamer-heap&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamer-heap&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=e5e7eb&area=true&area_color=8b5cf6&hide_border=true" alt="Khadija's Contribution Graph"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/kamer-heap/kamer-heap/output/github-contribution-grid-snake.svg" alt="Khadija's Contribution Snake"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kamer-stack&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-> If any card above shows a broken icon, it's a free shared-service hiccup (rate limit / cold start), not a problem with your markdown — refresh the page in a minute and it usually resolves. For a permanent fix, see the self-hosting note at the bottom of this file.
+> **A note on the cards above:** these are all free, shared community services — they get rate-limited or paused across *everyone's* profile at once sometimes, which is a known ongoing issue with these tools (not something in this file). `cache_seconds` is set to the max where supported to reduce how often they re-fetch. If one ever looks broken, it's almost always temporary — a hard refresh a few minutes later clears it up. See the self-hosting note at the bottom for the one permanent fix.
 
 ---
 
@@ -119,9 +128,10 @@ Expression parser and evaluator with structural algorithm optimizations for pars
 - 2nd position school-wide, Connoisseur Grammar School
 
 ---
+<div align="center">
 
-<p align="center">🤝 <em><b>I love connecting with people from different backgrounds</b> — feel free to say hi, I'd love to meet you! :)</em></p>
-
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+</div>
 <div align="center">
 
 **Let's connect** — [Portfolio](https://kamer--portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/khadija-amer-7821a8334) · [Email](mailto:khadijaaamerrr@gmail.com)
@@ -130,13 +140,56 @@ Expression parser and evaluator with structural algorithm optimizations for pars
 
 <!--
 Self-hosting note (delete this comment once done, or leave it — it's invisible on GitHub):
-The stats/top-langs cards above use the shared public github-readme-stats.vercel.app instance,
-which the project's own maintainers say can hit rate limits under heavy traffic and show broken
-images intermittently. For a card that never breaks:
+The stats/top-langs/streak/trophy/activity-graph cards above use shared public instances,
+which the projects' own maintainers confirm can hit rate limits or get paused under heavy
+traffic, breaking images intermittently across many profiles at once. For cards that never
+break:
 1. Fork https://github.com/anuraghazra/github-readme-stats
-2. Deploy your fork to your own free Vercel account (Vercel > Add New Project > pick your fork)
+   (and, for the streak card, https://github.com/DenverCoder1/github-readme-streak-stats;
+   for the activity graph, https://github.com/Ashutosh00710/github-readme-activity-graph)
+2. Deploy your fork(s) to your own free Vercel account (Vercel > Add New Project > pick your fork)
 3. Add your GitHub Personal Access Token as an env var named PAT_1 in the Vercel project settings
-4. Swap "github-readme-stats.vercel.app" in the two <img> URLs above for your own
-   "your-fork-name.vercel.app" domain
+4. Swap the corresponding *.vercel.app / *.demolab.com domains in the <img> URLs above for
+   your own "your-fork-name.vercel.app" domain
 Full steps: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+
+CONTRIBUTION SNAKE SETUP (the very last image above will 404 until you do this):
+The animated snake is generated by a GitHub Action, not a live service, so once set up it
+never breaks. Steps:
+1. Create a new PUBLIC repo named exactly "kamer-heap" (same as your username) if you don't
+   already have one — this is GitHub's special "profile repo".
+2. In that repo, add a workflow file at .github/workflows/snake.yml with this content:
+
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */12 * * *"
+     workflow_dispatch: {}
+     push:
+       branches:
+         - main
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       permissions:
+         contents: write
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: kamer-heap
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v4
+           if: always()
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Commit it, then either wait for the scheduled run or trigger it manually from the
+   Actions tab ("Run workflow"). It will push the generated SVG to an "output" branch —
+   that's exactly the URL already embedded above.
+Reference: https://github.com/Platane/snk
 -->
