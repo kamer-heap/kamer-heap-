@@ -1,58 +1,139 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=150&section=header&text=Hi,%20I'm%20Khadija%20Amer&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0CECCC&height=150&section=header"/>
 
-**Systems-focused CS engineer building network tools, parsers, and engines from scratch in C++ and Python.**
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=42&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=500&height=60&lines=Khadija+Amer" alt="Khadija Amer"/>
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 BSCS @ PUCIT, Class of 2028 &nbsp;·&nbsp; 🟢 Open to internships & entry-level roles
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4c1d95)](https://kamer--portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-amer-7821a8334)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijaaamerrr@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+Software+%26+Systems+Development" alt="tagline"/>
 
 </div>
 
----
+<br>
 
-### 🔭 Currently
+<table align="center" width="100%">
+<tr>
+<td width="60%" valign="top">
 
-- Building out security tooling on top of `network-traffic-monitor` — moving from simulation mode to live capture at scale
-- Picking up AI/ML fundamentals (Python, applied to the log-analyzer's anomaly detection)
-- TA-ing systems concepts to CS undergrads at PUCIT
+### Profile
 
----
+I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building things from the ground up — parsers, engines, and full-stack tools where I've had to reason about the underlying data structures and algorithms myself. My work spans systems programming, full-stack web development, and networking fundamentals, and I'm currently expanding into applied machine learning.
 
-### 🧰 Core Stack
+**Objective:** Seeking internships and entry-level opportunities in software development, where I can apply and grow my technical skills on real-world systems.
 
-| Area | Tools |
+</td>
+<td width="40%" valign="top">
+
+### Quick Facts
+
+| | |
 |---|---|
-| Languages | `C++` `Python` `C` `x64 Assembly` |
-| Web | `JavaScript/TypeScript` `React` `Flask` |
-| Data | `PostgreSQL` `MongoDB` `SQL` |
-| Security & Networking | `Wireshark` `Nmap` `Burp Suite` `Metasploit` |
-| Tools | `Git` `Docker` `Kali Linux` |
+| 🎓 Education | BSCS @ PUCIT |
+| 📅 Expected Grad. | 2028 |
+| 📍 Location | Lahore, Pakistan |
+| 📧 Email | khadijaaamerrr@gmail.com |
+| 🔗 LinkedIn | [khadija-amer](https://www.linkedin.com/in/khadija-amer-7821a8334) |
+| 🌐 Portfolio | [View here](https://kamer--portfolio.vercel.app/) |
 
----
+</td>
+</tr>
+</table>
 
-### 🚀 Featured Work
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
 
-**[Network Traffic Monitor](https://github.com/kamer-heap/network-traffic-monitor)** · `Python` `Flask` `Scapy`
-Real-time packet-capture dashboard tracking live traffic across 20+ ports, with an offline simulation mode for demos.
+### Tech Stack
 
-**[Log Analyzer](https://github.com/kamer-heap/log-analyzer)** · `Python` — [Live Demo](https://kamer-heap.github.io/log-analyzer/web_ui.html)
-CLI + web tool parsing server logs; handles 38+ real-world edge cases (malformed entries, timezone shifts, truncated lines) to surface status-code and traffic anomalies.
+**Languages**
 
-**[KadEdit](https://github.com/kamer-heap/KadEdit)** · `C++` `HTML` — [Live Demo](https://kamer-heap.github.io/KadEdit/)
-Browser-based text editor with a custom undo/redo stack, recent-file queue, and dynamic buffer management.
+<div align="center">
 
-**[Chrome Dino Game](https://github.com/kamer-heap/CHROME-DINO-GAME)** · `C++`
-Endless-runner clone with a collision detection engine built from scratch using geometric bounding-box logic.
+![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=0CECCC)
+![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c&logoColor=0CECCC)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&logoColor=0CECCC)
+![Assembly](https://img.shields.io/badge/-x64%20Assembly-0D1117?style=flat&logo=assemblyscript&logoColor=0CECCC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=0CECCC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=0CECCC)
 
-**[Minesweeper](https://github.com/kamer-heap/Minesweeper-game-)** · `C++` — [Live Demo](https://kamer-heap.github.io/Minesweeper-game-/)
-Console game with scaling difficulty, persistent high scores, and a recursive auto-reveal algorithm.
+</div>
 
-**[Infix Engine](https://github.com/kamer-heap/infix-engine)** · `C++` — [Live Demo](https://kamer-heap.github.io/infix-engine/)
-Expression parser/evaluator with structural optimizations for parsing and validation.
+**Frameworks & Databases**
+
+<div align="center">
+
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat&logo=flask&logoColor=0CECCC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=0CECCC)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=sqlite&logoColor=0CECCC)
+
+</div>
+
+**Tools & Platforms**
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visualstudiocode&logoColor=0CECCC)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&logoColor=0CECCC)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=0CECCC)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&logoColor=0CECCC)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=0CECCC)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat&logo=wireshark&logoColor=0CECCC)
+![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=flat&logo=nmap&logoColor=0CECCC)
+
+</div>
+
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+
+### Currently
+
+- Picking up applied machine learning fundamentals in Python
+- <!-- add second item here -->
+
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+
+### Featured Work
+
+<table align="center" width="100%">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>Network Traffic Monitor</b></td>
+<td>Real-time monitoring dashboard tracking live traffic across 20+ ports, with an offline simulation mode for demos.</td>
+<td><code>Python</code> <code>Flask</code> <code>Scapy</code></td>
+<td><a href="https://github.com/kamer-heap/network-traffic-monitor">Repo</a></td>
+</tr>
+<tr>
+<td><b>Log Analyzer</b></td>
+<td>CLI + web tool parsing server logs, handling 38+ real-world edge cases to surface status-code and traffic patterns.</td>
+<td><code>Python</code></td>
+<td><a href="https://github.com/kamer-heap/log-analyzer">Repo</a> · <a href="https://kamer-heap.github.io/log-analyzer/web_ui.html">Live Demo</a></td>
+</tr>
+<tr>
+<td><b>KadEdit</b></td>
+<td>Browser-based text editor with a custom undo/redo stack, recent-file queue, and dynamic buffer management.</td>
+<td><code>C++</code> <code>HTML</code></td>
+<td><a href="https://github.com/kamer-heap/KadEdit">Repo</a> · <a href="https://kamer-heap.github.io/KadEdit/">Live Demo</a></td>
+</tr>
+<tr>
+<td><b>Infix Engine</b></td>
+<td>Expression parser/evaluator with structural optimizations for parsing and validation.</td>
+<td><code>C++</code></td>
+<td><a href="https://github.com/kamer-heap/infix-engine">Repo</a> · <a href="https://kamer-heap.github.io/infix-engine/">Live Demo</a></td>
+</tr>
+<tr>
+<td><b>Minesweeper</b></td>
+<td>Console game with scaling difficulty, persistent high scores, and a recursive auto-reveal algorithm.</td>
+<td><code>C++</code></td>
+<td><a href="https://github.com/kamer-heap/Minesweeper-game-">Repo</a> · <a href="https://kamer-heap.github.io/Minesweeper-game-/">Live Demo</a></td>
+</tr>
+<tr>
+<td><b>Chrome Dino Game</b></td>
+<td>Endless-runner clone with a collision detection engine built from scratch using geometric bounding-box logic.</td>
+<td><code>C++</code></td>
+<td><a href="https://github.com/kamer-heap/CHROME-DINO-GAME">Repo</a></td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -60,40 +141,35 @@ Expression parser/evaluator with structural optimizations for parsing and valida
 
 </div>
 
----
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-<img width="100%" src="./metrics.svg" alt="Khadija's GitHub Metrics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9" width="40%"/>
 </div>
 
-<!--
-This card is generated by a GitHub Action (see .github/workflows/metrics.yml) and committed
-straight into this repo as metrics.svg — it refreshes itself every 12 hours automatically as
-your contributions grow. Because it's a file in your own repo instead of a call to a shared
-public service, it can't hit rate limits or go down the way the old Vercel-hosted stats image
-could. Setup (one-time):
-1. Add the file .github/workflows/metrics.yml (provided) to this repo.
-2. Commit and push it, or trigger it manually from the Actions tab ("Run workflow").
-3. Wait ~1-2 minutes for the first run — it will create metrics.svg in the repo root and this
-   image will start rendering. After that it keeps itself current automatically.
--->
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
 
-
----
-
-### 🏫 Background
+### Background
 
 - **Teaching Assistant**, systems coursework — under Dr. Madiha Khalid, PUCIT
 - **Campus Ambassador** — LoopLab & FCIT Developers Club
 - **Honhaar Scholar** — fully-funded academic merit scholarship
 - 2nd position school-wide, Connoisseur Grammar School
 
----
+<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
 
 <div align="center">
 
-**Let's connect** — [Portfolio](https://kamer--portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/khadija-amer-7821a8334) · [Email](mailto:khadijaaamerrr@gmail.com)
+### Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0CECCC)](https://kamer--portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)](https://github.com/kamer-heap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0CECCC)](https://www.linkedin.com/in/khadija-amer-7821a8334)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0CECCC)](mailto:khadijaaamerrr@gmail.com)
+
+<sub>© 2026 Khadija Amer. Open to opportunities and collaboration.</sub>
 
 </div>
