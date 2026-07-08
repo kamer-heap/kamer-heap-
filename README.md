@@ -14,7 +14,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### Profile
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=1&pause=100000&color=0CECCC&width=250&height=35&lines=Profile" alt="Profile"/>
 
 I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building things from the ground up — parsers, engines, and full-stack tools where I've had to reason about the underlying data structures and algorithms myself. My work spans systems programming, full-stack web development, and networking fundamentals, and I'm currently expanding into applied machine learning.
 
@@ -23,7 +23,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 </td>
 <td width="40%" valign="top">
 
-### Quick Facts
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=1&pause=100000&color=0CECCC&width=250&height=35&lines=Quick+Facts" alt="Quick Facts"/>
 
 | | |
 |---|---|
@@ -40,7 +40,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Tech+Stack" alt="Tech Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Tech+Stack" alt="Tech Stack"/>
 
 <table width="100%">
 <tr>
@@ -84,16 +84,14 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Currently" alt="Currently"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Currently" alt="Currently"/>
 
 - Picking up applied machine learning fundamentals in Python
 - <!-- add second item here -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=350&height=40&lines=Featured+Work" alt="Featured Work"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=350&height=40&lines=Featured+Work" alt="Featured Work"/>
 
 <table align="center" width="100%">
 <tr>
@@ -140,8 +138,6 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
-
 <div align="center">
 
 **[→ Full write-ups & design decisions on my portfolio](https://kamer--portfolio.vercel.app/)**
@@ -150,16 +146,16 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=350&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=350&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9" width="40%"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Background" alt="Background"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Background" alt="Background"/>
 
 - **Teaching Assistant**, systems coursework — under Dr. Madiha Khalid, PUCIT
 - **Campus Ambassador** — LoopLab & FCIT Developers Club
