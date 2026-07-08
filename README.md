@@ -87,7 +87,8 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Currently" alt="Currently"/>
 
 - Picking up applied machine learning fundamentals in Python
-- <!-- add second item here -->
+- Deepening data structures & algorithms practice through daily problem-solving
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
@@ -168,6 +169,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Contact" alt="Contact"/>
 
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledocs&logoColor=0CECCC)](https://drive.google.com/file/d/1C-yTjQCyeMGDxFpCoxcd0TCX4C3KO0Az/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0CECCC)](https://kamer--portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)](https://github.com/kamer-heap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0CECCC)](https://www.linkedin.com/in/khadija-amer-7821a8334)
