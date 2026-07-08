@@ -101,37 +101,37 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 <th>Link</th>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Network%20Traffic%20Monitor-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">Network Traffic Monitor</b></td>
 <td>Real-time monitoring dashboard tracking live traffic across 20+ ports, with an offline simulation mode for demos.</td>
 <td><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0CECCC"/> <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=0CECCC"/> <img src="https://img.shields.io/badge/Scapy-0D1117?style=flat-square&logoColor=0CECCC"/></td>
 <td><a href="https://github.com/kamer-heap/network-traffic-monitor"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Log%20Analyzer-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">Log Analyzer</b></td>
 <td>CLI + web tool parsing server logs, handling 38+ real-world edge cases to surface status-code and traffic patterns.</td>
 <td><img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0CECCC"/></td>
-<td><a href="https://github.com/kamer-heap/log-analyzer"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/log-analyzer/web_ui.html"><img src="https://img.shields.io/badge/Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
+<td><a href="https://github.com/kamer-heap/log-analyzer"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/log-analyzer/web_ui.html"><img src="https://img.shields.io/badge/-Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/KadEdit-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">KadEdit</b></td>
 <td>Browser-based text editor with a custom undo/redo stack, recent-file queue, and dynamic buffer management.</td>
 <td><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=0CECCC"/> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=0CECCC"/></td>
-<td><a href="https://github.com/kamer-heap/KadEdit"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/KadEdit/"><img src="https://img.shields.io/badge/Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
+<td><a href="https://github.com/kamer-heap/KadEdit"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/KadEdit/"><img src="https://img.shields.io/badge/-Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Infix%20Engine-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">Infix Engine</b></td>
 <td>Expression parser/evaluator with structural optimizations for parsing and validation.</td>
 <td><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=0CECCC"/></td>
-<td><a href="https://github.com/kamer-heap/infix-engine"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/infix-engine/"><img src="https://img.shields.io/badge/Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
+<td><a href="https://github.com/kamer-heap/infix-engine"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/infix-engine/"><img src="https://img.shields.io/badge/-Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Minesweeper-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">Minesweeper</b></td>
 <td>Console game with scaling difficulty, persistent high scores, and a recursive auto-reveal algorithm.</td>
 <td><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=0CECCC"/></td>
-<td><a href="https://github.com/kamer-heap/Minesweeper-game-"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/Minesweeper-game-/"><img src="https://img.shields.io/badge/Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
+<td><a href="https://github.com/kamer-heap/Minesweeper-game-"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a> <a href="https://kamer-heap.github.io/Minesweeper-game-/"><img src="https://img.shields.io/badge/-Live%20Demo-0CECCC?style=flat-square&logo=vercel&logoColor=0D1117"/></a></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Chrome%20Dino%20Game-0D1117?style=for-the-badge&logoColor=0CECCC"/></td>
+<td><b style="color:#0CECCC;">Chrome Dino Game</b></td>
 <td>Endless-runner clone with a collision detection engine built from scratch using geometric bounding-box logic.</td>
 <td><img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=0CECCC"/></td>
 <td><a href="https://github.com/kamer-heap/CHROME-DINO-GAME"><img src="https://img.shields.io/badge/Repo-0D1117?style=flat-square&logo=github&logoColor=0CECCC"/></a></td>
@@ -146,11 +146,11 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=350&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9" width="40%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kamer-heap&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9&cache_seconds=86400" width="40%"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
