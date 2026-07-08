@@ -153,6 +153,41 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9&cache_seconds=86400" width="40%"/>
 </div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=kamer-heap&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=0CECCC&fire=0CECCC&currStreakLabel=0CECCC&sideLabels=c9d9d9&dates=8B949E&cache_seconds=86400" width="90%"/>
+</div>
+
+<!--
+CONTRIBUTION SNAKE — not embedded yet on purpose (would 404 until set up).
+1. Create .github/workflows/snake.yml in your kamer-heap/kamer-heap repo with the
+   content from snake-workflow.yml (provided separately).
+2. Push it, then run the workflow once manually (Actions tab -> Run workflow),
+   or wait for the daily cron to fire.
+3. Once it has run at least once, uncomment the block below.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamer-heap/kamer-heap/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamer-heap/kamer-heap/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kamer-heap/kamer-heap/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
+</div>
+-->
+
+<!--
+3D CONTRIBUTION GRAPH — same story, needs one workflow run first.
+1. Create .github/workflows/3d-contrib.yml in your kamer-heap/kamer-heap repo with the
+   content from 3d-contrib-workflow.yml (provided separately).
+2. Push it, then run it once (Actions tab -> Run workflow).
+3. Once profile-3d-contrib/profile-night-rainbow.svg exists on the main branch,
+   uncomment the block below.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kamer-heap/kamer-heap/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+</div>
+-->
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&width=300&height=40&lines=Background" alt="Background"/>
