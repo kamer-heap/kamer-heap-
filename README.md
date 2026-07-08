@@ -38,57 +38,62 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 </tr>
 </table>
 
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-### Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Tech+Stack" alt="Tech Stack"/>
 
-**Languages**
+<table width="100%">
+<tr>
+<td width="22%" valign="middle"><b>Languages</b></td>
+<td valign="middle">
 
-<div align="center">
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=0CECCC)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=0CECCC)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0CECCC)
+![Assembly](https://img.shields.io/badge/x64%20Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=0CECCC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=0CECCC)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=0CECCC)
 
-![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=c%2B%2B&logoColor=0CECCC)
-![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c&logoColor=0CECCC)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&logoColor=0CECCC)
-![Assembly](https://img.shields.io/badge/-x64%20Assembly-0D1117?style=flat&logo=assemblyscript&logoColor=0CECCC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=0CECCC)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=0CECCC)
+</td>
+</tr>
+<tr>
+<td width="22%" valign="middle"><b>Frameworks & Databases</b></td>
+<td valign="middle">
 
-</div>
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=0CECCC)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=0CECCC)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sqlite&logoColor=0CECCC)
 
-**Frameworks & Databases**
+</td>
+</tr>
+<tr>
+<td width="22%" valign="middle"><b>Tools & Platforms</b></td>
+<td valign="middle">
 
-<div align="center">
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=0CECCC)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=0CECCC)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=0CECCC)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=0CECCC)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=0CECCC)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=0CECCC)
 
-![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat&logo=flask&logoColor=0CECCC)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=0CECCC)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=sqlite&logoColor=0CECCC)
+</td>
+</tr>
+</table>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-**Tools & Platforms**
-
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visualstudiocode&logoColor=0CECCC)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&logoColor=0CECCC)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=0CECCC)
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&logoColor=0CECCC)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=0CECCC)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=flat&logo=wireshark&logoColor=0CECCC)
-![Nmap](https://img.shields.io/badge/-Nmap-0D1117?style=flat&logo=nmap&logoColor=0CECCC)
-
-</div>
-
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
-
-### Currently
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Currently" alt="Currently"/>
 
 - Picking up applied machine learning fundamentals in Python
 - <!-- add second item here -->
 
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-### Featured Work
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=350&height=40&lines=Featured+Work" alt="Featured Work"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
 <table align="center" width="100%">
 <tr>
@@ -135,35 +140,37 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
+
 <div align="center">
 
 **[→ Full write-ups & design decisions on my portfolio](https://kamer--portfolio.vercel.app/)**
 
 </div>
 
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-### GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=350&height=40&lines=GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kamer-heap&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=0CECCC&icon_color=0CECCC&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-heap&layout=compact&hide_border=true&bg_color=0D1117&title_color=0CECCC&text_color=c9d1d9" width="40%"/>
 </div>
 
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
-### Background
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Background" alt="Background"/>
 
 - **Teaching Assistant**, systems coursework — under Dr. Madiha Khalid, PUCIT
 - **Campus Ambassador** — LoopLab & FCIT Developers Club
 - **Honhaar Scholar** — fully-funded academic merit scholarship
 - 2nd position school-wide, Connoisseur Grammar School
 
-<img width="100%" height="4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='4'%3E%3Crect%20width='1000'%20height='4'%20fill='%230CECCC'/%3E%3C/svg%3E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0CECCC&height=2&section=header"/>
 
 <div align="center">
 
-### Contact
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=1&pause=100000&color=0CECCC&center=true&vCenter=true&width=300&height=40&lines=Contact" alt="Contact"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0CECCC)](https://kamer--portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)](https://github.com/kamer-heap)
