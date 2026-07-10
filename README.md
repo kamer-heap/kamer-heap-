@@ -187,7 +187,7 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 [![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledocs&logoColor=0CECCC)](https://drive.google.com/file/d/1C-yTjQCyeMGDxFpCoxcd0TCX4C3KO0Az/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0CECCC)](https://kamer--portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0CECCC)](https://github.com/kamer-heap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0CECCC)](https://www.linkedin.com/in/khadija-amer-7821a8334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0CECCC&logoSize=auto)](https://www.linkedin.com/in/khadija-amer-7821a8334)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0CECCC)](mailto:khadijaaamerrr@gmail.com)
 
 <sub>© 2026 Khadija Amer. Open to opportunities and collaboration.</sub>
