@@ -192,4 +192,4 @@ I'm a Computer Science student at **PUCIT** (Class of 2028), focused on building
 
 <sub>© 2026 Khadija Amer. Open to opportunities and collaboration.</sub>
 
-</div>
+</div> 
